@@ -19,4 +19,10 @@ Questions Answered :
 
 💡 Is there a correlation between product rating and return rate?
 
+🥈 Which seller has the 2nd highest total revenue?
+
+💸 Which products are overpriced (high price but low rating)?
+
+
+
 ⚠️ Which products should be flagged for review due to low sales, low rating, and high return?
